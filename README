@@ -7,8 +7,8 @@
 ```json
 {
   "mcpServers": {
-    "clipboard-manager": {
-      "command": "C:\\mcp\\clipboard-mcp.exe"
+    "clipboard-mcp": {
+      "command": "c:\mcp\clipboard-mcp.exe"
     }
   }
-}
+} 
